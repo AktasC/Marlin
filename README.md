@@ -1,4 +1,10 @@
-# Ender 3 V2 JyersUI: Deuspi edition 🚀
+# Ender 3 V2 JyersUI: Deuspi Edition 🚀
+
+![GitHub License](https://img.shields.io/github/license/AktasC/Marlin.svg)
+![GitHub Contributors](https://img.shields.io/github/contributors/AktasC/Marlin.svg)
+[![Build Configs](https://github.com/AktasC/Marlin/actions/workflows/compile-configs.yml/badge.svg)](https://github.com/AktasC/Marlin/actions/workflows/compile-configs.yml)
+
+<img align="center" height=250 src="Images\GorillaMarlinBanner.png" />
 
 This fork was created for my own purposes.  
 I'm not responsible for anything that happens to you, your printer, electricity bill, house, social life, finances or even if you unleash a nuclear war with this firmware.  
