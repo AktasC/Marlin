@@ -1,25 +1,34 @@
-# Ender 3 V2 JyersUI: Deuspi Edition 🚀
+<p align="center">
+  <img width="720" src="Images\GorillaMarlinBanner.png" />
+</p>
+
+<h1 align="center" style="margin-top: 0px;">Ender 3 V2 JyersUI: Deuspi Edition 🚀</h1>
+<p align="center" >A simple 🦍's approach on Marlin</p>
+
+<div align="center">
 
 ![GitHub License](https://img.shields.io/github/license/AktasC/Marlin.svg)
 ![GitHub Contributors](https://img.shields.io/github/contributors/AktasC/Marlin.svg)
 [![Build Configs](https://github.com/AktasC/Marlin/actions/workflows/compile-configs.yml/badge.svg)](https://github.com/AktasC/Marlin/actions/workflows/compile-configs.yml)
 
-<img align="center" height=250 src="Images\GorillaMarlinBanner.png" />
+</div>
 
 This fork was created for my own purposes.  
 I'm not responsible for anything that happens to you, your printer, electricity bill, house, social life, finances or even if you unleash a nuclear war with this firmware.  
 
-If you don't have the same setup you shouldn't use this firmware.  
-Heck, even if you have the same setup you shouldn't use it.  
+**If you don't have the same parts** on your E3V2 you shouldn't use this firmware, you should use [Jyers' firmware](https://github.com/jyers)  
+Heck, **even if you have the same setup** you shouldn't use my firmware, what's wrong with you ?  
 
-I'm just a 🦍 eating 🖍️ and smashing a nice keyboard.  
+I'm just a 🖍️ eating and keyboard smashing 🦍.  
+Don't forget that.  
 
 ## DeuspiPrinter Setup
 
-- **Extruder:** Orbiter w/ Pancake  
-- **Hotend:** Dragon HighFlow  
+- **Extruder:** Orbiter w/ Pancake Stepper Motor from TriangleLabs  
+- **Hotend:** Dragon HighFlow from TriangleLabs  
 - **Board:** Creality v4.2.2  
 - **Probe:** BL-Touch v3.1  
+- **Bed:** PEI from TriangleLabs
 
 ## Credits
 
