@@ -34,4 +34,4 @@ Marlin is published under the [GPL license](/LICENSE) because they believe in op
 
 While they can't prevent the use of this code in products (3D printers, CNC, etc.) that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
 
-*Personally I don't care what you do with this firmware, nobody's responsible for your actions except you.*
+*Personally I don't care what you do with this firmware, nobody's responsible for your actions but yourself.*
