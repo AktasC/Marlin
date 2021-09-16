@@ -78,7 +78,7 @@ jobs:
     strategy:
       matrix:
         board: [V4, V427]
-        grid: [10, 15]
+        grid: [9, 10]
         highspeed: [true, false]
     steps:
       - uses: actions/checkout@v2
@@ -143,7 +143,7 @@ jobs:
     strategy:
       matrix:
         board: [V4]
-        grid: [10, 15]
+        grid: [9, 10]
         highspeed: [true]
     steps:
       - uses: actions/checkout@v2
